@@ -1,0 +1,11 @@
+const GAME_WIDTH = 5000;
+const GAME_HEIGHT = 5000;
+
+const SCREEN_WIDTH = 1500;
+const SCREEN_HEIGHT = 730;
+
+const SNAKE_SIZE = 5;
+const SNAKE_SPEED_NORMAL = 3;
+const SNAKE_SPEED_MAX = 3.8;
+
+const GRID_SIZE = 50;
